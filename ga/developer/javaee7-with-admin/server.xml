@@ -23,9 +23,9 @@
 
     <quickStartSecurity userName="admin" userPassword="adminpwd" />
 
-    <basicRegistry id="basic" realm="BasicRealm"> 
+    <!-- <basicRegistry id="basic" realm="BasicRealm">  -->
         <!-- <user name="yourUserName" password="" />  --> 
-    </basicRegistry>
+    <!-- </basicRegistry> -->
     
     <!-- To allow access to this server from a remote client host="*" has been added to the following element -->
     <httpEndpoint id="defaultHttpEndpoint"
